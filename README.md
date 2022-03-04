@@ -7,11 +7,15 @@ Uses [Auyer's steganography library](https://github.com/auyer/steganography/) to
 
 ## Demo
 Non-Encoded Image
+
 ![Non Encoded Image](https://i.imgur.com/9CjvCAT.png)
+
 SHA256: `3D568164DE25AE2AB8F1EF2E55E7A925BF0A49AF1FD85817C5113FCEA8705750`
 
 Javascript Encoded Image
+
 ![Javascript Encoded Image](https://i.imgur.com/DbMcEM0.png)
+
 SHA256: `16633A42672CD271865C99DC3FC9A34E517C2C694AFB822B0EA2C03808C3B093`
 
 
