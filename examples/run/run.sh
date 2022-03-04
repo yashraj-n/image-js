@@ -1,0 +1,1 @@
+ijs run hello-world.png

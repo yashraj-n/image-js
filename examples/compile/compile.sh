@@ -1,0 +1,1 @@
+ijs compile hello.js img.png
